@@ -1,0 +1,17 @@
+@import "@fontsource-variable/manrope";
+
+html,
+body {
+  font-family: "Manrope Variable", sans-serif;
+  background-color: #000000;
+}
+
+button {
+  cursor: pointer;
+  font-family: "Manrope Variable", sans-serif;
+}
+
+p {
+  font-family: "Manrope Variable", sans-serif;
+  margin: 0;
+}
